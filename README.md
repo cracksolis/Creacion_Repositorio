@@ -4,5 +4,7 @@ Clonar repositorio.
 
 hola
 
+edicion del readme
+
 #Colaborador
 ALejandro Solis
